@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Arun Negi's Hospital",
+  "description": "Trusted Healthcare for You & Your Family - Hospital in Kotdwar, Uttarakhand with 5.0 Google Rating.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
